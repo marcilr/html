@@ -1,0 +1,23 @@
+ul-list-no-bullets.txt
+Created Mon Jul  1 07:56:00 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+To create a ul list with no bullets:
+
+ul {
+  list-style-type: none;
+}
+
+--edited Jun 15 at 6:10
+  Vadim Ovchinnikov
+  answered Jun 22 '09 at 14:00
+  Paul Dixon
+  I need an unordered list without any bullets
+  https://stackoverflow.com/questions/1027354/i-need-an-unordered-list-without-any-bullets
+
+
+Links
+=====
+I need an unordered list without any bullets
+https://stackoverflow.com/questions/1027354/i-need-an-unordered-list-without-any-bullets
