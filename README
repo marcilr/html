@@ -17,3 +17,8 @@ links.txt
 
 syntax/
   Syntax got html
+
+templete/
+  Has stock index.html template for reuse.
+  Initially copied from:
+  ~/git/lang/html/index.html
