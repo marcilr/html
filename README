@@ -3,6 +3,13 @@ Created Mon Jul  1 07:53:03 AKDT 2019
 Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
+Sat 12 Nov 2022 09:08:14 AM AKST
+================================
+Sert paragraph width using:
+
+<p style="width:50%; margin-top:1cm;">
+
+
 Filelist
 ========
 docs/
